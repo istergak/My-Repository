@@ -1,4 +1,6 @@
 # My-Repository
 
 ## Introduction
-This is the first repository
+This is my first repository
+
+☣️
